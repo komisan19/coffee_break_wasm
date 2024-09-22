@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #282c34;
+    color: white;
+}
+#clock {
+    display: block;
+    font-size: 80px;
+}
+#gif-container {
+    margin-top: 20px;
+}
+
+#gif {
+    display: none;  /* 初期状態では非表示 */
+}
+
+#gif p {
+    font-size: 25px;
+    text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer p {
+  text-align: "center";
+}

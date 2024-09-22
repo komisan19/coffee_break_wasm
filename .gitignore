@@ -1,0 +1,7 @@
+/target
+/pkg
+/coffee/node_modules
+/coffee/tsconfig.app.tsbuildinfo
+/coffee/tsconfig.node.tsbuildinfo
+
+
